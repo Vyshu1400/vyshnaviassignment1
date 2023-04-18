@@ -1,0 +1,31 @@
+.list-item {
+  display: flex;
+  text-align: left;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.row {
+  display: flex;
+  justify-content: space-around;
+}
+.image {
+  height: 24px;
+  width: 24px;
+}
+.delete {
+  height: 22px;
+  width: 22px;
+}
+.button {
+  background-color: blue;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.domain {
+  font-size: 12px;
+}
+.title {
+  font-family: 'Roboto';
+  font-style: normal;
+}
